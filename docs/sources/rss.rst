@@ -12,7 +12,7 @@ Valid feed types are:
 
 * ``messy``: Only look at obfuscated URLs, assume all IPs are valid.
 * ``clean``: Treat everything as valid C2 URL/IP.
-* ``afterioc`` Treat everything after the last occurance of the string "Indicators
+* ``afterioc`` Treat everything after the last occurrence of the string "Indicators
   of Compromise" as valid C2 URL/IP.
 
 Configuration Options
